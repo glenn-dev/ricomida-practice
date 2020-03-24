@@ -1,0 +1,53 @@
+body{
+  font-family: 'Cabin', sans-serif;
+  color: #373a3C;
+}
+
+.navbar-brand{
+  font-family: 'Lobster', cursive;
+  font-size: 1.8em;
+}
+
+.nav-link{
+  font-size: 1.2em;
+}
+
+.divider{
+  height: 1px;
+  background-color: #373a3C;
+}
+
+.carousel-indicators {
+  top: 14rem;
+}
+
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #373a3C;
+}
+
+p, li{
+  font-size: 1.2em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.title{
+  font-family: 'Lobster', cursive;
+}
+
+
+colors{ 
+  color: #373a3C;
+  color: #dddddd;
+  color: #000; /* o var(--black) */
+  color: #fff; /* o var(--white); */
+  color: #dc3545; /* o var(--danger); */
+
+/* font-family: 'Cabin', sans-serif;
+font-family: 'Lobster', cursive; */
